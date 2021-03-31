@@ -1,0 +1,4 @@
+use_frameworks!
+target 'CampUtilsLib_Example' do
+  pod 'CampUtilsLib', :path => '../'
+end

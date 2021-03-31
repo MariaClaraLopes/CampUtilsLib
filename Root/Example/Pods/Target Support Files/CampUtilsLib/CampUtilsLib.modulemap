@@ -1,0 +1,6 @@
+framework module CampUtilsLib {
+  umbrella header "CampUtilsLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
